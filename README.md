@@ -8,7 +8,7 @@ This is a little program that demonstrates the use of the [HeaderBar](https://de
 
 The [great tutorials provided by the Gnome Developer Website](http://developer.gnome.org/gtkmm-tutorial/unstable/index.html) didn't include any form of help on how to use this widget so I decided to find out myself.   
 
-This test program is inspired by the [Python Gtk3 Tutorial for the Stack Widget](http://python-gtk-3-tutorial.readthedocs.org/en/latest/layout.html#id4).  
+This test program is inspired by the [Python Gtk3 Tutorial for the HeaderBar Widget](http://python-gtk-3-tutorial.readthedocs.org/en/latest/layout.html#id5).  
 
 License
 -------

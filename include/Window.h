@@ -3,19 +3,14 @@
 
 #include <gtkmm/window.h>
 #include <gtkmm/box.h>
-#include <gtkmm/label.h>
-#include <gtkmm/stack.h>
-#include <gtkmm/stackswitcher.h>
+#include <gtkmm/headerbar.h>
 
 namespace ns {
     class Window : public Gtk::Window {
         private:
-            Gtk::Box            m_box;
-            Gtk::Label          m_label_foo;
-            Gtk::Label          m_label_bar;
+            Gtk::Box        m_box;
 
-            Gtk::StackSwitcher  m_stack_switcher;
-            Gtk::Stack          m_stack;
+            Gtk::HeaderBar  m_header_bar;
     
         public:
             Window ();
