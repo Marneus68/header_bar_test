@@ -4,7 +4,7 @@ header_bar_test
 HeaderBar widget exeample (gtkmm 3)
 -----------------------------------
 
-This is a little program that demonstrates the use of the [HeaderBar](https://developer.gnome.org/gtkmm/stable/classGtk_1_1HeaderBar.html) widget from the [gtkmm 3 library](http://www.gtkmm.org/en/).  
+This is a little program that demonstrates the use of the [HeaderBar](https://developer.gnome.org/gtkmm/stable/classGtk_1_1HeaderBar.html) widget from the [gtkmm 3 library](http://www.gtkmm.org/en/). It also includes a little demonstration of the [Arrow](https://developer.gnome.org/gtkmm/unstable/classGtk_1_1Arrow.html) class.
 
 The [great tutorials provided by the Gnome Developer Website](http://developer.gnome.org/gtkmm-tutorial/unstable/index.html) didn't include any form of help on how to use this widget so I decided to find out myself.   
 
